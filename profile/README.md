@@ -12,10 +12,10 @@ SARF is a project aimed at developing a remote management system for electronic 
 
 ## Getting Started:
 To get started with SARF, follow these steps:
-Clone the repository: #TODO
-Install dependencies: #TODO
-Configure the system according to your requirements.
-Run the system: #TODO
+- Clone the repository: #TODO
+- Install dependencies: #TODO
+- Configure the system according to your requirements.
+- Run the system: #TODO
 
 ## License:
 This project is **unlicensed**.
